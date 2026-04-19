@@ -2,11 +2,11 @@
 
  **Dataset Overview:**
 User Profiles: Demographic and subscription details of BrightTV users.
-Viewer Transactions: Session-level consumption records (each viewing session logged as one record).
+Viewer Transactions: Session level consumption records (each viewing session logged as one record).
 Time Zone Note: All timestamps are provided in UTC and must be converted to South Africa Standard Time (SAST) for analysis.
 
 **Deliverables:**
-A 20-minute presentation covering the following key areas:
+A 20 minute presentation covering the following key areas:
 
 1. User & Usage Trends
 Subscriber growth patterns
@@ -19,7 +19,7 @@ Correlation between subscription tiers and consumption
 
 3. Content Recommendations
 Identify genres or formats that boost engagement
-Suggest targeted content strategies for low-consumption days
+Suggest targeted content strategies for low consumption days
 
 4. Growth Initiatives
 Marketing and promotional strategies to attract new users
